@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278498957019",
+    "project_id": "my-resume-c86d8",
+    "storage_bucket": "my-resume-c86d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278498957019:android:2268e9bf9a2d974772defe",
+        "android_client_info": {
+          "package_name": "com.example.myresume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIClgkCdNveW5J3vHVsagAs9ZGl_X5AvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
